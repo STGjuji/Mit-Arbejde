@@ -1,2 +1,3 @@
-# Mit-Arbejde
-Det her er mit arbejde
+# Hej.
+
+Jeg hedder # Oliver Kuntz, det her er mit arbejde
