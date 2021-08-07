@@ -1,3 +1,3 @@
 # Hej.
 
-Jeg hedder # Oliver Kuntz, det her er mit arbejde
+Jeg hedder Oliver Kuntz, det her er mit arbejde
